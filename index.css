@@ -40,8 +40,8 @@ body {
 }
 
 .text-section, .image-section {
-    flex: 1;  
-    overflow: hidden;  
+    flex: 1; 
+    overflow: hidden; 
 }
 
 .text-section {
@@ -63,7 +63,7 @@ body {
     display: grid;
     place-content: center;
     height: 91vh;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 

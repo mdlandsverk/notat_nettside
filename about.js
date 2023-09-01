@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
     cvIcon.addEventListener("click", function() {
 
        // Open the PDF file located at "CV/cmv.pdf" in a new browser tab.
-      window.open("CV/cmv.pdf", "_blank");
+      window.open("Resources/CV/cmv.pdf", "_blank");
     });
   });
   
